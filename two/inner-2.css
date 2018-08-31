@@ -1,0 +1,111 @@
+
+body{
+
+	background-color: #fffefe;
+}
+
+#main{
+
+	width: 30vw;
+ 	height: auto;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  
+
+
+}
+
+
+#outter-main{
+
+width: 90vw;
+ 	height: auto;
+ display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+
+
+}
+
+#type{
+
+	width:15%;
+	height: 40%;
+	float: right;
+	display: inline-block;
+	position: relative;
+	margin-right: 7%;
+	text-align: left;
+	font-family: nobile;
+ 	font-size: 1vw;
+ 	margin-top: 5%;
+ 	line-height: 150%;
+ 
+
+}
+
+.sdsnpic{
+	width: 43%;
+	margin:2%;
+	display: inline-block;
+	border:3px solid rgb(56,73,155);
+	float: left;
+box-shadow: 5px 5px 25px rgb(56,73,155);
+
+}
+
+.sdsnpiclong{
+	width: 91%;
+	margin:2%;
+	display: inline-block;
+	border:3px solid rgb(56,73,155);
+	float: left;
+box-shadow: 5px 5px 25px rgb(56,73,155);
+}
+
+.sdsnpic_2{
+	width: 43%;
+	margin:2%;
+	display: inline-block;
+	border:3px solid rgb(231,133,255);
+	float: left;
+box-shadow: 5px 5px 25px rgb(231,133,255);
+
+}
+
+.sdsnpiclong_2{
+	width: 91%;
+	margin:2%;
+	display: inline-block;
+	border:3px solid rgb(231,133,255);
+	float: left;
+box-shadow: 5px 5px 25px rgb(231,133,255);
+}
+
+
+.icon{
+
+  width: 17%;
+  height:17%;
+  float: left;
+  margin-right: 7px;
+
+  display: inline-block;
+  left:1%;
+  position: fixed;
+
+    background-repeat: no-repeat;
+    z-index: -2000000;
+
+}
+
+
+
+
+
+
+
